@@ -1,5 +1,10 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
-  }
+    "sdkVersion": "25.0.0",
+    "android": {
+      "package": "react-native-masonry-layout-example"
+    }
+  },
+  "name": "reactnativemasonrylayout",
+  "displayName": "MansonryExample"
 }

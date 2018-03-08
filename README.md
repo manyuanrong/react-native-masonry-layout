@@ -8,6 +8,8 @@
 * Full custom item view, Including style definition
 * Instead of adding a item per column, the optimal arrangement is automatically determined by the algorithm. Avoid the high gap in each column
 
+![preview](./example/preview.png)
+
 ## Usage
 
 #### 1.Install
