@@ -16,3 +16,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /.idea
+/android/app/build
+/android/build
+/android/.gradle
