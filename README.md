@@ -28,6 +28,7 @@ import Masonry from 'react-native-masonry-layout';
 #### 3.Render
 ```javascript
 <Masonry
+  ref="masonry"
   columns={3} // optional - Default: 2
   renderItem={(item)=><View>
     <Text>some text</Text>

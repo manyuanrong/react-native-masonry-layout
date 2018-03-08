@@ -26,6 +26,7 @@ import Masonry from 'react-native-masonry-layout';
 #### 3.渲染
 ```javascript
 <Masonry
+  ref="masonry" // 为组件添加一个引用名，可以通过this.refs.masonry访问该组件
   columns={3} // optional - Default: 2
   renderItem={(item)=><View>
     <Text>some text</Text>
