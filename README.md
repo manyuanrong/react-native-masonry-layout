@@ -64,3 +64,9 @@ this.refs.masonry.addItems([
 	{ key:1, text:"text1", height: 150 }
 ]);
 ```
+
+#### clear
+Clear the items of masonry.
+```javascript
+this.refs.masonry.clear();
+```

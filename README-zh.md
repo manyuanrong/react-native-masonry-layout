@@ -62,3 +62,9 @@ this.refs.masonry.addItemsWithHeight([
 	{ key:1, text:"text1", height: 150 }
 ]);
 ```
+
+#### clear
+清除瀑布流数据
+```javascript
+this.refs.masonry.clear();
+```
