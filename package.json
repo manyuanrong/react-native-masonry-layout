@@ -1,6 +1,6 @@
 {
   "name": "react-native-masonry-layout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easy to use, pure JS react-native component to render a masonry layout for any item view",
   "author": "Enok Man",
   "private": false,
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/fengmu456/react-native-masonry-layout.git"
   },
-  "files":[
+  "files": [
     "./example",
     "./lib"
   ],
@@ -37,8 +37,8 @@
   "jest": {
     "preset": "react-native"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "16.2.0",
-    "react-native": "0.52.0"
+    "react-native": ">=0.52.0"
   }
 }
