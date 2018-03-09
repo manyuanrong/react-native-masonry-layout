@@ -43,6 +43,7 @@ import Masonry from 'react-native-masonry-layout';
 | containerStyle | ViewStyle | 定义瀑布流容器组件的样式 | null |
 | renderItem | func | The method used to render each item | null |
 | keyExtractor | func | 默认的item列表渲染时会自动选用key属性作为列表项的key，也可以通过定义此属性选择其他属性来作为key | null |
+#### 其他属性方法和 [ScrollView](https://reactnative.cn/docs/0.51/scrollview.html#content) 相同
 
 ## 组件方法
 #### addItems

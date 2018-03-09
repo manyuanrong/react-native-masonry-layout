@@ -1,6 +1,6 @@
 {
   "name": "react-native-masonry-layout",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An easy to use, pure JS react-native component to render a masonry layout for any item view",
   "author": "Enok Man",
   "private": false,

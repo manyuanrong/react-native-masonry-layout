@@ -45,6 +45,7 @@ import Masonry from 'react-native-masonry-layout';
 | containerStyle | ViewStyle | Defining the style of the container view | null |
 | renderItem | func | The method used to render each item | null |
 | keyExtractor | func | By default, the list looks for a key prop on each item and uses that for the React key. Alternatively, you can provide a custom keyExtractor prop. | null |
+#### Other attributes are the same as [ScrollView](http://facebook.github.io/react-native/docs/scrollview.html) 
 
 ## Component Methods
 #### addItems
