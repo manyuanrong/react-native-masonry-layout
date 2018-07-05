@@ -40,6 +40,8 @@ import Masonry from 'react-native-masonry-layout';
 |属性|类型|描述|默认值|
 |-----|-----|-----|-----|
 | columns | number | 定义显示的列数 | 2 |
+| header | View | 在瀑布流之前添加view | null |
+| footer | View | 在瀑布流之后添加view | null |
 | containerStyle | ViewStyle | 定义瀑布流容器组件的样式 | null |
 | renderItem | func | The method used to render each item | null |
 | keyExtractor | func | 默认的item列表渲染时会自动选用key属性作为列表项的key，也可以通过定义此属性选择其他属性来作为key | null |

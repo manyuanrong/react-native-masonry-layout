@@ -42,6 +42,8 @@ import Masonry from 'react-native-masonry-layout';
 |Props|Type|Description|Default|
 |-----|-----|-----|-----|
 | columns | number | Desired number of columns | 2 |
+| header | View | Add view in front of the masonry layout | null |
+| footer | View | Add view in behind the masonry layout | null |
 | containerStyle | ViewStyle | Defining the style of the container view | null |
 | renderItem | func | The method used to render each item | null |
 | keyExtractor | func | By default, the list looks for a key prop on each item and uses that for the React key. Alternatively, you can provide a custom keyExtractor prop. | null |
