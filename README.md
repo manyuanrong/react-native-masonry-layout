@@ -62,7 +62,7 @@ this.refs.masonry.addItems([
 #### addItemsWithHeight
 Add items to masonry. Item height will be automatically calculated, but height attribute must be added to every item object data. This attribute is not the actual item rendering height, but a reference value for item assignment algorithm. Unlike addItems, items is rendered in bulk.
 ```javascript
-this.refs.masonry.addItems([
+this.refs.masonry.addItemsWithHeight([
 	{ key:1, text:"text1", height: 210 },
 	{ key:1, text:"text1", height: 150 }
 ]);
