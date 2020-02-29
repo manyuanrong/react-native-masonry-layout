@@ -1,3 +1,5 @@
+### Because I no longer do development work related to ReactNative, I have no energy to continue to maintain this project. If there are interested people, I am willing to give the corresponding collaborator permissions
+
 # react-native-masonry-layout
 
 > An easy to use, pure JS react-native component to render a masonry layout for any item view
